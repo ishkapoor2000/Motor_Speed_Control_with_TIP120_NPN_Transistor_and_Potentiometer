@@ -1,4 +1,4 @@
-# Motor_Speed_Control_with_TIP120_NPN_Transistor_and_Potentiometer
+# Motor_Speed_Control_with_TIP120_NPN_Transistor_&_Potentiometer
 
 In this project we can control the speed of the DC motor using a TIP20 NPN Power Transistor and Potentiometer.
 
