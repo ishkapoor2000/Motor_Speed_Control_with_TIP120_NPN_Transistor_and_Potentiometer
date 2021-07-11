@@ -1,0 +1,1 @@
+# Motor_Speed_Control_with_TIP120_NPN_Transistor_and_Potentiometer
