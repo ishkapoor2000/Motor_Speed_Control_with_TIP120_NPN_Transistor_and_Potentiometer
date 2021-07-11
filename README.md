@@ -12,4 +12,6 @@ In this project we can control the speed of the DC motor using a TIP20 NPN Power
 | D: 1M4004 Rectifier Diode    	|     1    	| Diode                     	|
 | Rpot: Potentiometer          	|     1    	| 10 kΩ Potentiometer       	|
 
-https://www.tinkercad.com/things/3NYcO3bygbz
+![Snapshot of Circuit](/test.PNG "Snapshot of TIP20 NPN Transistor controlling a DC Motor")
+
+## Visualize [here](https://www.tinkercad.com/things/3NYcO3bygbz).
